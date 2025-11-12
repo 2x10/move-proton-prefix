@@ -5,7 +5,7 @@
 # and replaces it with a symlink to an ext4 location.
 #
 # Usage:
-#   ./proton-prefix-mover.sh --gameid 123456 --library nvme01
+#   ./proton-prefix-mover.sh --appid 123456 --library nvme01
 #
 # Configurable variables:
 HOMEPATH="$HOME/.steam/compatdata_emu"   # Where ext4-based prefixes are stored
